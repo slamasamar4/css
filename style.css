@@ -1,0 +1,63 @@
+.title {
+  color: white;
+  text-align: center;
+  style:italic ;
+ 
+}
+body {
+  background-color: rgba(37, 48, 171, 0.607) ;
+  text-align: center;
+}
+
+.formulaire {
+  background-color: rgb(162, 145, 145);
+  width: max-content;
+  margin-left: auto;
+  margin-right:auto;
+  color:aliceblue
+
+
+}
+
+
+.footer{
+  background-color :grey;
+}
+
+.top{
+ color:white;
+ text-align: left;
+}
+div {
+   background-color: rgb(16, 50, 61);
+}
+
+.bar {
+  text-align: right;
+  color :aliceblue ;
+}
+.feet {
+  text-align: left;
+}
+.lorem{
+
+}
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+aside {
+  width: 30%;
+  padding-left: 10px;
+  margin-left: 10px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+.top1{
+  color:aliceblue;
+}
